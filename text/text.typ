@@ -1,7 +1,7 @@
 = Abstract
 
 = Clustering "Same Images" and Potential Use of Results: the example of image programs
-this section shoud explain:
+this section should explain:
 1. the clustering of same images in the the sphere corpus: how and why was it done
 2. the idea of using it: calculating "programs" of shared and unique images accompanying the specific text parts
 3. presenting the technical process (how is it done)
@@ -11,7 +11,11 @@ this section shoud explain:
 = Examples for Historical Analyses Based on the Results/ Findings (temporary title of course)
 this section should include three examples for "interesting cases" found using the "image program" code for identifying shared and not shared images.
 
-== part 104: 
+== part 104:
+Cluster SAC_SIL_01967 includes 10 images from 10 different books.
+The images all come from the theorica nove planetarum. 
+two copies are from the theorica of gerard and others are 
+The images come from 
 the image of multiple positions of the sun in the orbits of the sun model, cluster 1967
 
 
