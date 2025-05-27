@@ -104,18 +104,20 @@ part 251:
 cluster 1519 (signs of the zodiac, table like image)
 clusters 477 and 261: sun and moon
 
-part 238
+== part 238
 cluster 486: the ring with the stone
 
-part 190: a treatise about the stars
+== part 190: a treatise about the stars
 addition of astrolabe and a three dimensional diagram. clusters: 1236, 3754/870 (there is more than one of these clusters)
 
-part 184
+== part 184
 ecclesticus (with the sanke), addition of the sun and different appearance of the moons 3694 (similar cluster 1504)
 
-part 110, addition of lathe machine to geonmetrcial definition of a sphere, clusters 1941, 1823
+== part 110 
+addition of lathe machine to geonmetrcial definition of a sphere, clusters 1941, 1823
 
-d. potential overview: text parts that have more or less "non shared image clusters" (historical meaning: text parts that has stable image program vs. text parts that has more variations in the image programs)
+== potential overview: 
+text parts that have more or less "non shared image clusters" (historical meaning: text parts that has stable image program vs. text parts that has more variations in the image programs)
 
 
 = Discussion

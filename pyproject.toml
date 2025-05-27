@@ -9,7 +9,11 @@ authors = [
 requires-python = ">=3.12"
 dependencies = [
     "jupyterlab>=4.3.5",
+    "matplotlib>=3.10.3",
+    "networkx>=3.4.2",
     "pandas>=2.2.3",
+    "practicalsparql>=0.0.6",
+    "seaborn>=0.13.2",
 ]
 
 [project.scripts]
